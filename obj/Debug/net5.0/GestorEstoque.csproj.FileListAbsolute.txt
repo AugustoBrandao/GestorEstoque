@@ -1,0 +1,16 @@
+/home/augusto/Documentos/MeusProjetos/GestorEstoque/bin/Debug/net5.0/GestorEstoque
+/home/augusto/Documentos/MeusProjetos/GestorEstoque/bin/Debug/net5.0/GestorEstoque.deps.json
+/home/augusto/Documentos/MeusProjetos/GestorEstoque/bin/Debug/net5.0/GestorEstoque.runtimeconfig.json
+/home/augusto/Documentos/MeusProjetos/GestorEstoque/bin/Debug/net5.0/GestorEstoque.runtimeconfig.dev.json
+/home/augusto/Documentos/MeusProjetos/GestorEstoque/bin/Debug/net5.0/GestorEstoque.dll
+/home/augusto/Documentos/MeusProjetos/GestorEstoque/bin/Debug/net5.0/ref/GestorEstoque.dll
+/home/augusto/Documentos/MeusProjetos/GestorEstoque/bin/Debug/net5.0/GestorEstoque.pdb
+/home/augusto/Documentos/MeusProjetos/GestorEstoque/obj/Debug/net5.0/GestorEstoque.csproj.AssemblyReference.cache
+/home/augusto/Documentos/MeusProjetos/GestorEstoque/obj/Debug/net5.0/GestorEstoque.GeneratedMSBuildEditorConfig.editorconfig
+/home/augusto/Documentos/MeusProjetos/GestorEstoque/obj/Debug/net5.0/GestorEstoque.AssemblyInfoInputs.cache
+/home/augusto/Documentos/MeusProjetos/GestorEstoque/obj/Debug/net5.0/GestorEstoque.AssemblyInfo.cs
+/home/augusto/Documentos/MeusProjetos/GestorEstoque/obj/Debug/net5.0/GestorEstoque.csproj.CoreCompileInputs.cache
+/home/augusto/Documentos/MeusProjetos/GestorEstoque/obj/Debug/net5.0/GestorEstoque.dll
+/home/augusto/Documentos/MeusProjetos/GestorEstoque/obj/Debug/net5.0/ref/GestorEstoque.dll
+/home/augusto/Documentos/MeusProjetos/GestorEstoque/obj/Debug/net5.0/GestorEstoque.pdb
+/home/augusto/Documentos/MeusProjetos/GestorEstoque/obj/Debug/net5.0/GestorEstoque.genruntimeconfig.cache
